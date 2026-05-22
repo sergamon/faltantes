@@ -1,0 +1,1 @@
+export default function Shipping(){return <div className='space-y-3'><h1 className='text-2xl font-bold'>Enviar por Servientrega</h1><p>Tu solicitud de envío será procesada con nuestro aliado logístico.</p></div>}

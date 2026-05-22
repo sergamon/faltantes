@@ -1,0 +1,1 @@
+export default function Admin(){return <div><h1 className='text-2xl font-bold mb-4'>Admin</h1><ul className='grid md:grid-cols-3 gap-3 text-sm'>{['Usuarios registrados','Intercambios','Envíos','Pagos','Reportes','Matches generados','Ingresos por fee','Usuarios premium','Ciudades top'].map(i=><li key={i} className='bg-white p-3 rounded shadow'>{i}</li>)}</ul></div>}
