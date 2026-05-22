@@ -1,0 +1,1 @@
+export default function Page(){return <div className='prose'><h1>Privacy</h1><p>Plataforma independiente para coleccionistas en Colombia.</p><p>No afiliada a FIFA, Panini ni entidades oficiales.</p></div>}

@@ -1,0 +1,1 @@
+export default function ExchangeDetail(){return <div className='space-y-3'><h1 className='text-2xl font-bold'>Detalle de intercambio</h1><p>Estado: propuesto</p><p>Modalidad: envío Servientrega</p><div className='flex gap-2'><button className='px-3 py-2 bg-brand-green text-white rounded'>Aceptar</button><button className='px-3 py-2 border rounded'>Rechazar</button></div></div>}
